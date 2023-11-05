@@ -48,10 +48,13 @@ Numerical variables, Price, Horsepower and Kilometer, were checked for outliers 
 ### 6. A/B Testing
 
 The Prices of car were checked to see if they changed during the Financial Crisis (2007-2009). To test this condition, a hypothesis was formulated:
+
 • Null hypothesis: The mean price of cars before and during the financial crisis
 (2007-2009) remained the same.
+
 • Alternative hypothesis: The mean price of cars during the financial crisis (2007-
 2009) is different from the mean price of cars before the crisis.
+
 T-test and the following results were obtained as shown in figure above.
 
 From the results, it can be concluded that there is a large difference between the mean of the two groups (t-statistic = 211.13, p-value <0.05). Hence, the null hypothesis can be rejected. This means that the mean price of cars during the financial crisis was significantly different than the mean price of cars before the financial crisis.
@@ -72,11 +75,11 @@ From the correlation heatmap:
 
 <img width="883" alt="image" src="https://github.com/hamzahasan13/Data-Driven-Analytics/assets/114373000/b89ab7a3-e763-4692-bc83-1f1b662c2c27">
 
-#### 7.2 Categoricl Data Visualization
-
-The most preferred fuel types are gasoline and diesel but the electric and hybrid cars have the highest average selling price.
+#### 7.2 Categorical Data Visualization
 
 <img width="853" alt="image" src="https://github.com/hamzahasan13/Data-Driven-Analytics/assets/114373000/881fa0c3-fe5e-49b3-8c3e-5c2ae3a202b7">
+
+The most preferred fuel types are gasoline and diesel but the electric and hybrid cars have the highest average selling price.
 
 <img width="860" alt="image" src="https://github.com/hamzahasan13/Data-Driven-Analytics/assets/114373000/dd5569a7-9f4a-49ea-a814-64e79066b4ef">
 
